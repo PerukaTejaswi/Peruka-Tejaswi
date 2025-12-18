@@ -23,8 +23,7 @@ deriving KPIs, and converting raw data into business insights.
 - Used SQL to extract business insights on customer behavior and loyalty.
 - Built an interactive Tableau dashboard to communicate those insights to stakeholders.
 
-🔗 [View Project](https://github.com/PerukaTejaswi/customer-behavior-analytics)
-
+🔗 [View Project](https://github.com/PerukaTejaswi/Customer-Behavior-Analytics-An-End-to-End-Data-Intelligence-Project)
 
 ## 📫 Contact
 
